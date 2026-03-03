@@ -78,6 +78,67 @@
 
 ---
 
+##Findings
+**Overall Business Performance**
+The business is performing strongly with total sales of 56.25 million and a profit of 
+54.39 million, giving an impressive profit margin of nearly 97%. Cumulative sales came 
+in at 16 million, which is very close to the overall total, suggesting consistent and stable 
+revenue.
+
+**What's Selling the Most?**
+Looking at the donut chart on the Sales Analysis page, Computers dominate product 
+sales at 21.63M, followed by Cameras and Camcorders at 17.33M, then TV and Video at 
+9.26M. Cell phones and Music/Movies/Audio Books contribute much smaller shares. 
+This tells us the business is heavily dependent on computer and camera products —
+which is both an opportunity and a risk.
+
+**Top Performing Products**
+The table shows that Projectors & Screens consistently appear as top revenue 
+generators. The single best-selling product was the Proseware Projector 1080p LCD86 
+White at 110,160 in sales, mostly in Q4 2011. Camcorders like the Fabrikam 
+Independent Filmmaker also performed well, reaching over 101,000 in a single period.
+
+**Profit Breakdown (Profit Analysis Page)**
+Computers generate the highest profit at 20.9M, almost double that of Cameras and 
+Camcorders at 16.8M. TV and Video contributes 8.9M, while Cell Phones and Audio 
+bring in much smaller margins around 1M each. This confirms that the company's 
+profitability is heavily anchored in the computer category.
+
+**When Is the Business Most Profitable?**
+Looking at profit by month, October and November are the strongest months, each at 
+5.3M, likely driven by holiday season demand. April and May follow at 4.8M each. 
+January and December are the weakest months at 4.1M each. By quarter, Q4 is the 
+clear winner, followed closely by Q2, then Q3, with Q1 being the slowest — reinforcing 
+the seasonal pattern.
+
+**Promotion Analysis**
+**How Promotions Affect Sales**
+This third page reveals something very important: the majority of the business's revenue 
+actually comes from products sold at No Discount (18.3M), which is by far the largest 
+bar on the chart. This means customers are willing to pay full price — a very healthy sign 
+for the brand's perceived value.
+After that, the Adventist Promotion generated 8.6M, Winners Promotion 6.7M, Deeper 
+Promotion 6.4M, and the Xmas Holiday Promotion the least at 3.7M. Interestingly, the 
+Christmas promotion underperformed compared to other promotional campaigns, 
+which may warrant a review of that strategy.
+
+**Top Products and Their Promotions**
+The table confirms that the best-selling products — particularly Kekule and Proseware 
+Projectors — largely sold under No Discount, reinforcing that premium products don't 
+need heavy discounting to move. The top single product, the Kekule Projector 1080p 
+X980 White, generated 183,600 in sales with a profit of 181,670 — an almost perfect 
+margin on that item alone.
+
+**Key Takeaway**
+Discounts are not the primary sales driver here. The business should be cautious about 
+over-relying on promotions since the no-discount segment dominates. The Xmas 
+Holiday Promotion in particular should be evaluated for ROI — it generated the least 
+revenue of all promotional types. The business is healthy and highly profitable. Focus 
+should remain on computers and cameras as they drive most revenue and profit. Q4 is 
+the golden quarter — inventory, marketing, and staffing should be prioritized heading 
+into October/November.
+****
+
 ## 🧮 DAX Measures
 
 All key metrics in this report are powered by the following DAX calculations:
